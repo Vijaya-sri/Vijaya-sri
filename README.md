@@ -44,6 +44,7 @@ ACHIVEMENTS
 * Secured First place in the department of computer science and got a certification from The American college.
 
 * Secured Second Place in the inter college Paper Presentation Competition showcasing exceptional research and presentation skills from The American college.
+* Cleared TCS NQT Cognitive Exam with 72.85%
 
 LANGUAGES
 
