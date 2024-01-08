@@ -32,6 +32,7 @@ Implemented a simple inventory management system in Java, utilizing object-orien
 TECH SKILLS
 Java & Python
 Html , CSS & Javascript
+React Js
 C#
 
 ADDITIONAL SKILLS
